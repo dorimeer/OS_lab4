@@ -11,3 +11,4 @@
 
 # Результат выполнения
 
+![](https://github.com/dorimeer/OS_lab4/blob/main/exeresult.jpg)
